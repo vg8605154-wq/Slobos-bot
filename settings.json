@@ -5,9 +5,9 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+  "server": {VERO_MC.aternos.me:26762
+    "ip": "VERO_MC.aternos.me:26762",
+    "port":26762,
     "version": "1.21.1"
   },
   "position": {
