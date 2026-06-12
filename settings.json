@@ -5,7 +5,7 @@
     "password": "",
     "type": "offline"
   },
-  "server": {VERO_MC.aternos.me:26762
+  "server": {
     "ip": "VERO_MC.aternos.me:26762",
     "port":26762,
     "version": "1.21.1"
