@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "VERO_MC.aternos.me:26762",
-    "port":26762,
+    "ip": "FoxMC-4GAJ.aternos.me",
+    "port":21192,
     "version": "1.21.1"
   },
   "position": {
